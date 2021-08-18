@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diet Plus</string>
+    <string name="gram">gram</string>
+    <string name="miligram">miligram</string>
+    <string name="mikrogram">microgram</string>
+    <string name="unifiedunit">internaiotnal unit</string>
+</resources>

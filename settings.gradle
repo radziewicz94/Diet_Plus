@@ -1,0 +1,2 @@
+rootProject.name = "Diet Plus"
+include ':app'
